@@ -1,4 +1,4 @@
-# Note System
+# Sent Note System
 
 This is a simple note system project built with Laravel, Tailwind, Alpine, Livewire . It allows users to send notes to others via email.
 
